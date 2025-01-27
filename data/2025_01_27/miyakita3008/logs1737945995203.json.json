@@ -1,0 +1,11 @@
+[{"from":"miyakita3008","unixTime":"1737945990923","event":"startSearch"},
+{"from":"miyakita3008","to":"miyakita4782","event":"endpointFound","unixTime":1737945991004},
+{"from":"miyakita3008","to":"miyakita3276","event":"endpointFound","unixTime":1737945991018},
+{"from":"miyakita3008","to":"miyakita6185","event":"endpointFound","unixTime":1737945991130},
+{"from":"miyakita3008","unixTime":"1737945991181","latitude":"37.8667275","longitude":"138.9393685","imageLength":"0"},
+{"from":"miyakita3008","unixTime":"1737945993665","latitude":"37.8667571","longitude":"138.9393715","imageLength":"0"},
+{"from":"miyakita3008","to":"miyakita4782","event":"connected","unixTime":1737945994229},
+{"from":"miyakita3008","to":"miyakita4782","event":"sendStart","unixTime":1737945994276},
+{"from":"miyakita3008","to":"miyakita4782","event":"sendFinish","unixTime":1737945994848},
+{"from":"miyakita3008","to":"miyakita4782","event":"disconnectTo","unixTime":1737945994848},
+{"from":"miyakita3008","to":"miyakita4782","event":"discconected","unixTime":1737945995203}]

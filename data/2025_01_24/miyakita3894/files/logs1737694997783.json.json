@@ -1,0 +1,11 @@
+[{"to":"miyakita8940","event":"endpointFound","unixTime":1737694974900},
+{"unixTime":"1737694976783","latitude":"37.8668767","longitude":"138.939395"},
+{"unixTime":"1737694979796","latitude":"37.8668242","longitude":"138.9393725"},
+{"to":"miyakita8940","event":"endpointLost","unixTime":1737694980566},
+{"to":"error","event":"endpointLost","unixTime":1737694980578},
+{"unixTime":"1737694982783","latitude":"37.8667725","longitude":"138.9393698"},
+{"unixTime":"1737694985804","latitude":"37.8667356","longitude":"138.9393779"},
+{"unixTime":"1737694988635","latitude":"37.86673","longitude":"138.9393817"},
+{"unixTime":"1737694991794","latitude":"37.86673","longitude":"138.9393817"},
+{"unixTime":"1737694994811","latitude":"37.86673","longitude":"138.9393817"},
+{"unixTime":"1737694997783","latitude":"37.86673","longitude":"138.9393817"}]

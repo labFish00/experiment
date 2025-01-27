@@ -1,0 +1,11 @@
+[{"unixTime":"1737686952056","latitude":"37.8669046","longitude":"138.93956"},
+{"to":"miyakita8940","event":"endpointFound","unixTime":1737686953221},
+{"to":"miyakita8940","event":"connected","unixTime":1737686955631},
+{"to":"miyakita8940","event":"sendStart","unixTime":1737686955976},
+{"unixTime":"1737686956348","latitude":"37.8669232","longitude":"138.9395732"},
+{"to":"miyakita8940","event":"endpointLost","unixTime":1737686962041},
+{"unixTime":"1737686962113","latitude":"37.8669399","longitude":"138.93957"},
+{"unixTime":"1737686966378","latitude":"37.8669466","longitude":"138.9395534"},
+{"to":"miyakita8940","event":"sendFinish","unixTime":1737686969972},
+{"to":"miyakita8940","event":"disconnectTo","unixTime":1737686969972},
+{"to":"miyakita8940","event":"discconected","unixTime":1737686970501}]

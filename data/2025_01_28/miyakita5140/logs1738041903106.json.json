@@ -1,0 +1,11 @@
+[{"from":"miyakita5140","unixTime":"1738041882953","latitude":"37.8661637","longitude":"138.93932","imageLength":"6"},
+{"from":"miyakita5140","to":"miyakita8122","event":"connected","unixTime":1738041885662},
+{"from":"miyakita5140","to":"miyakita8122","event":"sendStart","unixTime":1738041885768},
+{"from":"miyakita5140","unixTime":"1738041886135","latitude":"37.8660585","longitude":"138.9393997","imageLength":"6"},
+{"from":"miyakita5140","unixTime":"1738041888737","latitude":"37.8660189","longitude":"138.9393911","imageLength":"7"},
+{"from":"miyakita5140","unixTime":"1738041891094","latitude":"37.8660029","longitude":"138.9393871","imageLength":"8"},
+{"from":"miyakita5140","unixTime":"1738041894105","latitude":"37.8660033","longitude":"138.9393817","imageLength":"10"},
+{"from":"miyakita5140","unixTime":"1738041897094","latitude":"37.8659766","longitude":"138.9394408","imageLength":"16"},
+{"from":"miyakita5140","unixTime":"1738041900112","latitude":"37.8659671","longitude":"138.9395053","imageLength":"18"},
+{"from":"miyakita5140","to":"miyakita8122","event":"endpointLost","unixTime":1738041901598},
+{"from":"miyakita5140","unixTime":"1738041903105","latitude":"37.8659855","longitude":"138.9395919","imageLength":"18"}]

@@ -1,3 +1,4 @@
 .venv
+.vscode
 combined.json
 *.mp4
